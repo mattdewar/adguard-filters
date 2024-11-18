@@ -10,6 +10,8 @@ This repository contains my collection of custom AdGuard annoyance filter lists.
 
 3. Add the URL of the raw filter list, for example:
 
-[https://raw.githubusercontent.com/mattdewar/adguard-filters/new/annoyances-newscientist.txt](https://raw.githubusercontent.com/mattdewar/adguard-filters/refs/heads/main/newscientist.txt)
+```txt
+https://raw.githubusercontent.com/mattdewar/adguard-filters/refs/heads/main/annoyances.txt
+```
 
 4. Enjoy less annoying junk.

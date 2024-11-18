@@ -1,0 +1,11 @@
+! Title: New Scientist Annoyance Blocker
+! Description: Custom filter list for blocking annoying elements on newscientist.com and wired.com
+
+! New Scientist
+newscientist.com##div.SidebarNewsletter
+newscientist.com###SiteHeader div.BottomNav__ButtonWrapper
+newscientist.com###SiteHeader .TopNav .TopNav__ButtonWrapper--VisibleOnScroll
+
+
+! Wired
+wired.com###bookmark

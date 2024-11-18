@@ -1,6 +1,0 @@
-! Title: New Scientist Annoyance Blocker
-! Description: Custom filter list for blocking specific elements on newscientist.com
-
-newscientist.com##div.SidebarNewsletter
-newscientist.com###SiteHeader div.BottomNav__ButtonWrapper
-newscientist.com###SiteHeader .TopNav .TopNav__ButtonWrapper--VisibleOnScroll

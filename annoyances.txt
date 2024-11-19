@@ -13,4 +13,4 @@ wired.com###bookmark
 ! ABC News (Australia)
 abc.net.au##.Article_aside__OAs_Q.isSidebar.Article_showWithColumns__a9tEk
 abc.net.au##.Article_aside__OAs_Q.ArticleWeb_sidebar__OZqKE
-
+abc.net.au##.Article_aside__OAs_Q:last-child
